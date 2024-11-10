@@ -1,6 +1,6 @@
-# Assignment 5 Repository
+# Assignment 4 Repository
 
-This repository contains solutions to various programming tasks for Assignment 5. Each task focuses on JavaScript functions and array manipulations.
+This repository contains solutions to various programming tasks for Assignment 4. Each task focuses on JavaScript functions and array manipulations.
 
 ## Contents
 
